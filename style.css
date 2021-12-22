@@ -1,0 +1,7 @@
+body{
+background: coral;
+}
+#camera{
+border: 5px solid lime;
+width:350px; height:350px;
+}
